@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fluent_ui/fluent_ui.dart' as fluent;
+import 'package:platform_adaptive_widgets/src/utils/tap_haptic.dart';
 import 'package:platform_adaptive_widgets/src/widgets/adaptive_widgets.dart';
 
 class AdaptiveCheckbox extends StatelessWidget {
