@@ -1,0 +1,27 @@
+name: platform_adaptive_widgets
+description: "A new Flutter project."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  dropdown_button2: ^2.3.9
+  fluent_ui: ^4.8.6
+  fluentui_system_icons: ^1.1.236
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  font_awesome_flutter: ^10.6.0
+  intl: ^0.19.0
+  pull_down_button: ^0.9.4
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
